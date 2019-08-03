@@ -1,0 +1,8 @@
+Nexus3
+Puppet
+Ansible
+Jenkins
+Selenium
+VivifyScrum
+Slack
+Docker
